@@ -1,6 +1,6 @@
 {
-  "home": "https://hani29.github.io/REDUX-TODO-List/",
-  "name": "Syeda-todo-list",
+  "home": "http://hani29.github.io/REDUX-TODO-List",
+  "name": "REDUX-TODO-List",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
